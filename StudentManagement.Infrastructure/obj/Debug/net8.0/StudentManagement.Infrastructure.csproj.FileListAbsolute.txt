@@ -1,0 +1,17 @@
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.deps.json
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Application.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Application.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.AssemblyInfo.cs
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentM.54534901.Up2Date
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\refint\StudentManagement.Infrastructure.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\StudentManagement.Infrastructure.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Infrastructure\obj\Debug\net8.0\ref\StudentManagement.Infrastructure.dll

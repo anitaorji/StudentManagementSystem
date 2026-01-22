@@ -1,0 +1,11 @@
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.deps.json
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\bin\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfoInputs.cache
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.AssemblyInfo.cs
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.csproj.CoreCompileInputs.cache
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\refint\StudentManagement.Domain.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\StudentManagement.Domain.pdb
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Domain\obj\Debug\net8.0\ref\StudentManagement.Domain.dll
