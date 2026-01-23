@@ -13,3 +13,4 @@ C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Appli
 C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Application\obj\Debug\net8.0\refint\StudentManagement.Application.dll
 C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.pdb
 C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Application\obj\Debug\net8.0\ref\StudentManagement.Application.dll
+C:\Users\anita.orji\source\repos\StudentManagementSystem\StudentManagement.Application\obj\Debug\net8.0\StudentManagement.Application.sourcelink.json

@@ -187,17 +187,21 @@
     "schemas": {
       "CreateStudentDto": {
         "required": [
+          "course",
           "email",
           "firstName",
-          "lastName"
+          "lastName",
+          "level"
         ],
         "type": "object",
         "properties": {
           "firstName": {
+            "maxLength": 20,
             "minLength": 1,
             "type": "string"
           },
           "lastName": {
+            "maxLength": 20,
             "minLength": 1,
             "type": "string"
           },
@@ -207,12 +211,12 @@
             "format": "email"
           },
           "course": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "level": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false
@@ -249,17 +253,21 @@
       },
       "UpdateStudentDto": {
         "required": [
+          "course",
           "email",
           "firstName",
-          "lastName"
+          "lastName",
+          "level"
         ],
         "type": "object",
         "properties": {
           "firstName": {
+            "maxLength": 20,
             "minLength": 1,
             "type": "string"
           },
           "lastName": {
+            "maxLength": 20,
             "minLength": 1,
             "type": "string"
           },
@@ -269,12 +277,12 @@
             "format": "email"
           },
           "course": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           },
           "level": {
-            "type": "string",
-            "nullable": true
+            "minLength": 1,
+            "type": "string"
           }
         },
         "additionalProperties": false

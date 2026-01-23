@@ -1,8 +1,6 @@
-﻿using Microsoft.AspNetCore.Http;
-using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Mvc;
 using StudentManagement.Application.DTOs.Student;
 using StudentManagement.Application.Interfaces;
-using StudentManagement.Application.Services;
 
 namespace StudentManagement.Api.Controllers
 {
@@ -55,19 +53,14 @@ namespace StudentManagement.Api.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult<StudentResponseDto>> UpdateStudentById(Guid id, UpdateStudentDto dto)
+        public async Task<ActionResult<StudentResponseDto>> UpdateStudentById(
+            Guid id,
+            UpdateStudentDto dto)
         {
-            var updated = await _studentService.UpdateStudentByIdAsync(id, dto);
-
-            if (updated == null)
-            {
-                return NotFound();
-            }
-            else
-            {
-                return Ok(updated);
-            }
+            var updatedStudent = await _studentService.UpdateStudentByIdAsync(id, dto);
+            return Ok(updatedStudent);
         }
+
 
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteStudent(Guid id)

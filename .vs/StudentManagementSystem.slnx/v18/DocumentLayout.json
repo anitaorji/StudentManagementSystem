@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.application\\dtos\\students\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\students\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.application\\dtos\\students\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\dtos\\students\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{140F8895-7AA9-4272-A942-68FC08E94BB7}|StudentManagement.Application\\StudentManagement.Application.csproj|solutionrelative:studentmanagement.application\\interfaces\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{67E1A9B0-C096-EFAD-C50A-7BB32E88754E}|StudentManagement.Domain\\StudentManagement.Domain.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.domain\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -23,16 +43,8 @@
       "RelativeMoniker": "D:0:0:{67E1A9B0-C096-EFAD-C50A-7BB32E88754E}|StudentManagement.Domain\\StudentManagement.Domain.csproj|solutionrelative:studentmanagement.domain\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\studentmanagement.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71EA3078-3DFA-F992-B91A-AEB7E773A79F}|StudentManagement.Api\\StudentManagement.Api.csproj|solutionrelative:studentmanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{1D3F7748-3B3C-59E3-1F4B-ACAA8E88F5D1}|StudentManagement.Infrastructure\\StudentManagement.Infrastructure.csproj|c:\\users\\anita.orji\\source\\repos\\studentmanagementsystem\\studentmanagement.infrastructure\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,64 +58,64 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
-              "RelativeDocumentMoniker": "StudentManagement.Domain\\Entities\\Student.cs",
-              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
-              "RelativeToolTip": "StudentManagement.Domain\\Entities\\Student.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAuwDsAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T09:32:23.694Z",
+              "WhenOpened": "2026-01-23T11:21:48.995Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Program.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Program.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Program.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T03:46:58.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "StudentService.cs",
               "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\Services\\StudentService.cs",
               "RelativeDocumentMoniker": "StudentManagement.Application\\Services\\StudentService.cs",
               "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\Services\\StudentService.cs",
               "RelativeToolTip": "StudentManagement.Application\\Services\\StudentService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADAAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-01-21T02:57:47.249Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentsController.cs",
-              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Controllers\\StudentsController.cs",
-              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentsController.cs",
-              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Controllers\\StudentsController.cs",
-              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAQAAAAtAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\DTOs\\Students\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\Students\\UpdateStudentDto.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\DTOs\\Students\\UpdateStudentDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\Students\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T14:38:58.561Z",
+              "WhenOpened": "2026-01-23T10:13:21.845Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "IStudentRepository.cs",
-              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
-              "RelativeDocumentMoniker": "StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
-              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
-              "RelativeToolTip": "StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T07:23:13.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "StudentManagement.Api",
+              "Title": "StudentManagement.Api.csproj",
               "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\StudentManagement.Api.csproj",
               "RelativeDocumentMoniker": "StudentManagement.Api\\StudentManagement.Api.csproj",
               "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\StudentManagement.Api.csproj",
@@ -116,6 +128,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentManagement.Api\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAkwEYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T14:38:58.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\DTOs\\Students\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Application\\DTOs\\Students\\CreateStudentDto.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\DTOs\\Students\\CreateStudentDto.cs",
+              "RelativeToolTip": "StudentManagement.Application\\DTOs\\Students\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T10:11:14.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentManagement.Domain\\Entities\\Student.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T09:32:23.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentManagement.Domain\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-21T07:23:13.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Application\\Interfaces\\IStudentService.cs",
               "RelativeDocumentMoniker": "StudentManagement.Application\\Interfaces\\IStudentService.cs",
@@ -123,12 +185,11 @@
               "RelativeToolTip": "StudentManagement.Application\\Interfaces\\IStudentService.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:31:03.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T03:31:03.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\appsettings.json",
               "RelativeDocumentMoniker": "StudentManagement.Api\\appsettings.json",
@@ -136,25 +197,11 @@
               "RelativeToolTip": "StudentManagement.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-01-21T07:16:02.661Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-21T07:16:02.661Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "StudentManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Api\\Program.cs",
-              "RelativeToolTip": "StudentManagement.Api\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-21T03:46:58.086Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\anita.orji\\source\\repos\\StudentManagementSystem\\StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
               "RelativeDocumentMoniker": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
@@ -162,8 +209,7 @@
               "RelativeToolTip": "StudentManagement.Infrastructure\\Repositories\\StudentRepository.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-14T12:02:16.424Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-01-14T12:02:16.424Z"
             }
           ]
         }

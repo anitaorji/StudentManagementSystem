@@ -32,7 +32,7 @@ namespace StudentManagement.Application.Services
             var student = await _studentRepository.GetStudentByIdAsync(id);
             
             if (student == null)
-                return null;
+                throw new KeyNotFoundException("Student not found");
 
             return new StudentResponseDto
             {
